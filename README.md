@@ -1,5 +1,5 @@
 # Diminishing-Returns-Epistasis
-Data and code for Wei and Zhang, 2018
+Data and code from Wei and Zhang, 2018
 
 Data and results: in "*.xlsx" 
 
