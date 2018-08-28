@@ -1,9 +1,10 @@
 # Diminishing-Returns-Epistasis
 Data and code for Wei and Zhang, 2018
 
-Data and results could be found in "*.xlsx" documents
+Data and results: in "*.xlsx" 
 
-Code in "*.m"
-The matlab script may run differently in Windows and Mac system, current file are writen under windows environment, but if needed in Mac or Linux environment, try changing the output format and input format, because function xlswrite in matlab does not work well outside of Windows. The functions that could be used as alternative include dlmwrite(), writetable(), fprintf(), and etc. Data could be loaded by fopen or importdata correspondingly.
+Code: in "*.m"
 
-A detailed description of each file to be added.
+The matlab scripts may run differently in Windows and Mac/Linux system. The current files have been writen under Windows environment. If they are needed in Mac or Linux environment, one may try to change the in/output function.
+This is mainly because xlswrite() in matlab does not always work outside of Windows environment. Alternatives for output include dlmwrite(), writetable(), fprintf(), and etc. Alternative input could be loaded by fopen() or importdata(), and etc.
+
